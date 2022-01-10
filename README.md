@@ -1,2 +1,2 @@
-# 3d-virtual-try-on
+# 3D-Virtual-Try-On
 
